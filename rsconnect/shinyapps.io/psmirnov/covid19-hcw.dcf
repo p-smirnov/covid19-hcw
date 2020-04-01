@@ -1,0 +1,13 @@
+name: covid19-hcw
+title: covid19-hcw
+username:
+account: psmirnov
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2037628
+bundleId: 2955585
+url: https://psmirnov.shinyapps.io/covid19-hcw/
+when: 1585770320.79703
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
